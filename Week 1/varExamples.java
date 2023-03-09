@@ -18,7 +18,7 @@ public class varExamples{
     }
 
     public static void supPrint(String superPower, String name){
-        System.out.println(String.format("%s has the super power " + superPower, name));
+        System.out.println(String.format("%s has the super power " + superPower, name);
     }
 
 
